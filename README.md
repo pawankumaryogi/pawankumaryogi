@@ -6,7 +6,8 @@ Full-Stack || MERN || Software Developer :robot:.
 
 Engineering Student ( CS ):man_technologist:
 
-## About me 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+ 
 
 :heart: Yoga | :black_heart: Dance | :blue_heart: Programming
 
@@ -14,20 +15,20 @@ Engineering Student ( CS ):man_technologist:
 - :video_game: I like to play video games
 - :gem: I love to customize everything lol
 
-
-## Social media :mailbox_with_no_mail:
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Aditya.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at AIET.
 <!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Cyber Security.
 - ✍️ &nbsp; Pursuing Dance and Yoga as hobbies.
+
+
+## Social media :mailbox_with_no_mail:
+
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
+
+
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -41,12 +42,12 @@ Engineering Student ( CS ):man_technologist:
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <!--   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio) -->
