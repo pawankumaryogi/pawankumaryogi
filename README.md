@@ -1,13 +1,13 @@
 <!-- <img align="right" width="400" height="400" src="https://www.instagram.com/p/B-etiriDjqy/?utm_source=ig_web_button_share_sheet">
  -->
 
-# Hi, I'm Pawan Kumar Yogi  :chicken:
+# Hi, I'm Pawan Kumar Yogi  💻
 
 
 
-Full-Stack || MERN || Software engineer :robot:. (In progress)
+Full-Stack || MERN || Software Developer :robot:.
 
-Holberton School Student. :man_technologist:
+Engineering Student ( CS ):man_technologist:
 
 ## About me 
 
