@@ -17,9 +17,56 @@ Engineering Student ( CS ):man_technologist:
 
 ## Social media :mailbox_with_no_mail:
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/pawanyogi01)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/yogipawan01/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/pawan-kumar-yogi-108382209/)
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
+<h2> Hey there! I'm Aditya.</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Engineering at AIET.
+<!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Cyber Security.
+- ✍️ &nbsp; Pursuing Dance and Yoga as hobbies.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<!--   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio) -->
+<!--   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
+-
+<br/>
+
+<a href="https://github.com/pawankumaryogi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pawankumaryogi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawankumaryogi&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+ -->
+
+
+
+
 
 
 
