@@ -9,7 +9,7 @@ Engineering Student ( CS ):man_technologist:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
  
 
-:heart: Yoga | :black_heart: Dance | :blue_heart: Programming
+:heart: full stack  developer| :black_heart: cloud developer | :blue_heart: Programming
 
 - :earth_americas: I'm from Jaipur - India
 - :video_game: I like to play video games
