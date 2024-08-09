@@ -11,15 +11,15 @@ Engineering Student ( CS ):man_technologist:
 
 :heart: full stack  developer| :black_heart: cloud developer | :blue_heart: Programming
 
-- :earth_americas: I'm from Jaipur - India
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :earth_americas: I'm from Rajasthan - India
+- 🥋: I am a martial artist
+- :gem: I love to explore the unknown
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at AIET.
+- 🎓 &nbsp; Computer Science and Engineering graduated from Rajasthan Technical University.
 <!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Cyber Security.
-- ✍️ &nbsp; Pursuing Dance and Yoga as hobbies.
+- ✍️ &nbsp; Pursuing karate and Yoga as hobbies.
 
 
 ## Social media :mailbox_with_no_mail:
